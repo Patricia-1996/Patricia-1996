@@ -11,6 +11,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
+![Estatísticas da Patricia](https://github-readme-stats.vercel.app/api?username=Patricia-1996&show_icons=true&theme=radical)
+
 ##Vamos nos conectar?
 [LinkedIn](https://www.linkedin.com/in/patricia-de-souza-aba020354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
