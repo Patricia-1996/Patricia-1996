@@ -13,6 +13,8 @@
 
 ![Estatísticas da Patricia](https://github-readme-stats.vercel.app/api?username=Patricia-1996&show_icons=true&theme=radical)
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Patricia-1996&layout=compact&theme=radical)
+
 ##Vamos nos conectar?
 [LinkedIn](https://www.linkedin.com/in/patricia-de-souza-aba020354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
