@@ -1,8 +1,8 @@
 ## Hi there 👋
-Nome: Patricia de Souza Escobar
--Nasci em Julho de 1996
--Aluna de Ciência da Computação na PUCRS.
--Formada em Técnico em Programação de Jogos Digitais na Uniritter.
+##Nome: Patricia de Souza Escobar
+##-Nasci em Julho de 1996
+##-Aluna de Ciência da Computação na PUCRS.
+##-Formada em Técnico em Programação de Jogos Digitais na Uniritter.
 
 ### 🛠 Minhas Tecnologias
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
