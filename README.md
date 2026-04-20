@@ -10,6 +10,7 @@
 ### 🛠 Minhas Tecnologias
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Verilog](https://img.shields.io/badge/verilog-%232b55b7.svg?style=for-the-badge&logo=cpu&logoColor=white)
 
 ![Estatísticas da Patricia](https://github-readme-stats.vercel.app/api?username=Patricia-1996&show_icons=true&theme=radical)
 
